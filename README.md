@@ -9,9 +9,9 @@ Rudrakshi Jhajharia --> database and editing
 Ishmeet Kaur and Ritika Makharia --> Back end and database connectivity
 
 ### TECH USED: 
-#### FOR FRONTEND-->HTML CSS and JavaScript
-#### FOR BACKEND--> PYTHON & MYSQL
-#### USED PYTHON'S LIBRARY--> FLASK
+FOR FRONTEND-->HTML CSS and JavaScript <br>
+FOR BACKEND--> PYTHON & MYSQL <br>
+USED PYTHON'S LIBRARY--> FLASK <br>
 
 ### IDEA DESCRIPTION:
 #### BusQuest is a web application that provides users with a convenient way to find public bus routes between their specified source and destination locations. It offers  information on bus timings, fares, distance, and estimated travel time. Users can also explore features such as route suggestions, alternate options, and other relevant details to enhance their travel planning experience. It is designed to revolutionize urban mobility by providing a seamless solution for planning and navigating public transportation routes within cities. It's a forward-thinking solution for efficient, eco-friendly urban transportation.
