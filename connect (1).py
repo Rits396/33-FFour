@@ -10,7 +10,7 @@ def input():
     return render_template("First.html")
 
 
-@app.route('/second') 
+@app.route('/last') 
 def display():
     if request.method=='get':
        source = str(request.form['source']) 
