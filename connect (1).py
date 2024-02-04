@@ -12,7 +12,7 @@ def input():
 
 @app.route('/second') 
 def display():
-    if request.method=='post':
+    if request.method=='get':
        source = str(request.form['source']) 
        destination = str(request.form['destination']) 
        return render_template('last.html', result=5) 
