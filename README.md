@@ -2,9 +2,9 @@
 
 ## PROJECT TITLE: BusQuest
 ### TEAM:
-#### Chetanya Gupta --> Front end
-#### Rudrakshi Jhajharia --> database and editing
-#### Ishmeet Kaur and Ritika Makharia --> Back end and database connectivity
+Chetanya Gupta --> Front end
+Rudrakshi Jhajharia --> database and editing
+Ishmeet Kaur and Ritika Makharia --> Back end and database connectivity
 
 ### TECH USED: 
 #### FOR FRONTEND-->HTML CSS and JavaScript
