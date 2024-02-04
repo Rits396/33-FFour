@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ad5043;
+    background-image: url('hey.jpg');
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+}
+
+label {
+    display: block;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+input[type="text"], textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-bottom: 15px;
+}
+
+input[type="file"] {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-bottom: 15px;
+}
+
+.rating {
+    font-size: 2em;
+    unicode-bidi: bidi-override;
+    direction: rtl;
+  }
+  
+  .star {
+    color: #ccc;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+  
+  .star:hover, .star:focus {
+    color: #ffcc00;
+  }
+  
+  .star[data-rating="1"]:hover ~ .star, .star[data-rating="1"]:focus ~ .star,
+  .star[data-rating="2"]:hover ~ .star, .star[data-rating="2"]:focus ~ .star,
+  .star[data-rating="3"]:hover ~ .star, .star[data-rating="3"]:focus ~ .star,
+  .star[data-rating="4"]:hover ~ .star, .star[data-rating="4"]:focus ~ .star,
+  .star[data-rating="5"]:hover ~ .star, .star[data-rating="5"]:focus ~ .star {
+    color: #ffcc00;
+  }
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049;
+}
